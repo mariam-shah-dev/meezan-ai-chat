@@ -1,7 +1,7 @@
 # Meezan Bank redesign: AI chat
 
 An unofficial redesign concept of Meezan Bank's website, with a help chatbot that uses a real AI model.
-Not affiliated with Meezan Bank Limited.
+Not affiliated with Meezan Bank Limited. ( internship purpose)
 
 ## What's in this folder
 
